@@ -452,3 +452,26 @@ header h1 {
     display: block;
   }
 }
+
+h3 {
+    font-family:'Source Sans Pro', sans-serif;
+    text-transform:uppercase;
+    font-weight : 300;
+    font-size : 14px;
+    color : #000;
+}
+#footer {
+    max-width: 980px;
+    text-align: center;
+    margin: auto;
+    overflow: hidden;
+}
+
+#footer hr {
+    border-bottom-color: #CCC;
+}
+
+.contact {
+    float: right;
+    margin-left: 5px;
+}
